@@ -52,7 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-missileresult.txt
+missileresults.txt
 
 results_timestep
 
